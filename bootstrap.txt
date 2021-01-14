@@ -1,0 +1,17 @@
+Twitter Bootstrap is a Front-End framework for UIs and Themes 
+* uses HTML, CSS, and JS
+* used to build responsive mobile first web apps and sites
+
+why use bootstrap?
+* increased development speed
+* responsiveness of site
+* consistency of names and markup
+* completely customizable
+
+covered in this crashCourse
+* setup and install Bootstrap
+* HTML / CSS Components
+* Grid System
+* Create Bootstrap Cheat Sheet
+
+* install by manually downloading source files; using a CDN (Content Delivery Network); with Bower (client side package manager), or with NPM (backend package manager) -- you will need jquery for the bootstrap widgets.
